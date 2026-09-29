@@ -1,0 +1,24 @@
+{
+  "name": "javel-svelte",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --hot server.ts",
+    "watch": "bunx --bun vite",
+    "vite-build": "bunx --bun vite build"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "svelte-check": "^4.7.6"
+  },
+  "dependencies": {
+    "@inertiajs/vite": "^3.7.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@inertiajs/svelte": "^3.7.1",
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "svelte": "^5.57.1",
+    "bun-jcc": "0.0.3",
+    "laravel-vite-plugin": "^3.2.0",
+    "vite": "^8.3.1"
+  }
+}
