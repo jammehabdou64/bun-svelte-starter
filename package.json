@@ -15,13 +15,13 @@
     "svelte-check": "^4.7.6"
   },
   "dependencies": {
-    "@inertiajs/vite": "^3.7.1",
-    "@tailwindcss/vite": "^4.3.3",
     "@inertiajs/svelte": "^3.7.1",
+    "@inertiajs/vite": "^3.7.1",
     "@sveltejs/vite-plugin-svelte": "^7.3.1",
-    "svelte": "^5.57.1",
-    "bun-jcc": "0.0.4",
+    "@tailwindcss/vite": "^4.3.3",
+    "javel-jcc": "^0.0.1",
     "laravel-vite-plugin": "^3.2.0",
+    "svelte": "^5.57.1",
     "vite": "^8.3.1"
   }
 }
