@@ -9,6 +9,7 @@
         "@inertiajs/vite": "^3.11.0",
         "@sveltejs/vite-plugin-svelte": "^7.3.1",
         "@tailwindcss/vite": "^4.3.4",
+        "axios": "^1.21.0",
         "javel-jcc": "0.0.3",
         "laravel-vite-plugin": "^3.2.0",
         "svelte": "^5.57.3",
